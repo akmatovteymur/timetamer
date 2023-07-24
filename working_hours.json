@@ -1,0 +1,125 @@
+{
+   "countries": [
+      {
+         "name": "My Custom Time",
+         "working_hours": [
+           { "day": "Monday", "open": "09:00", "close": "17:00" },
+           { "day": "Tuesday", "open": "09:00", "close": "17:00" },
+           { "day": "Wednesday", "open": "09:00", "close": "17:00" },
+           { "day": "Thursday", "open": "09:00", "close": "17:00" },
+           { "day": "Friday", "open": "09:00", "close": "17:00" },
+           { "day": "Saturday", "open": null, "close": null },
+           { "day": "Sunday", "open": null, "close": null }
+         ]
+      },
+     {
+       "name": "United States",
+       "working_hours": [
+         { "day": "Monday", "open": "09:00", "close": "17:00" },
+         { "day": "Tuesday", "open": "09:00", "close": "17:00" },
+         { "day": "Wednesday", "open": "09:00", "close": "17:00" },
+         { "day": "Thursday", "open": "09:00", "close": "17:00" },
+         { "day": "Friday", "open": "09:00", "close": "17:00" },
+         { "day": "Saturday", "open": null, "close": null },
+         { "day": "Sunday", "open": null, "close": null }
+       ]
+     },
+     {
+       "name": "Canada",
+       "working_hours": [
+         { "day": "Monday", "open": "09:00", "close": "17:00" },
+         { "day": "Tuesday", "open": "09:00", "close": "17:00" },
+         { "day": "Wednesday", "open": "09:00", "close": "17:00" },
+         { "day": "Thursday", "open": "09:00", "close": "17:00" },
+         { "day": "Friday", "open": "09:00", "close": "17:00" },
+         { "day": "Saturday", "open": null, "close": null },
+         { "day": "Sunday", "open": null, "close": null }
+       ]
+     },
+     {
+       "name": "Mexico",
+       "working_hours": [
+         { "day": "Monday", "open": "08:00", "close": "18:00" },
+         { "day": "Tuesday", "open": "08:00", "close": "18:00" },
+         { "day": "Wednesday", "open": "08:00", "close": "18:00" },
+         { "day": "Thursday", "open": "08:00", "close": "18:00" },
+         { "day": "Friday", "open": "08:00", "close": "18:00" },
+         { "day": "Saturday", "open": "09:00", "close": "13:00" },
+         { "day": "Sunday", "open": null, "close": null }
+       ]
+     },
+     {
+       "name": "Germany",
+       "working_hours": [
+         { "day": "Monday", "open": "08:30", "close": "17:30" },
+         { "day": "Tuesday", "open": "08:30", "close": "17:30" },
+         { "day": "Wednesday", "open": "08:30", "close": "17:30" },
+         { "day": "Thursday", "open": "08:30", "close": "17:30" },
+         { "day": "Friday", "open": "08:30", "close": "16:30" },
+         { "day": "Saturday", "open": null, "close": null },
+         { "day": "Sunday", "open": null, "close": null }
+       ]
+     },
+     {
+       "name": "United Kingdom",
+       "working_hours": [
+         { "day": "Monday", "open": "09:00", "close": "17:30" },
+         { "day": "Tuesday", "open": "09:00", "close": "17:30" },
+         { "day": "Wednesday", "open": "09:00", "close": "17:30" },
+         { "day": "Thursday", "open": "09:00", "close": "17:30" },
+         { "day": "Friday", "open": "09:00", "close": "17:30" },
+         { "day": "Saturday", "open": "09:00", "close": "12:30" },
+         { "day": "Sunday", "open": null, "close": null }
+       ]
+     },
+     {
+       "name": "Spain",
+       "working_hours": [
+         { "day": "Monday", "open": "09:00", "close": "18:00" },
+         { "day": "Tuesday", "open": "09:00", "close": "18:00" },
+         { "day": "Wednesday", "open": "09:00", "close": "18:00" },
+         { "day": "Thursday", "open": "09:00", "close": "18:00" },
+         { "day": "Friday", "open": "09:00", "close": "18:00" },
+         { "day": "Saturday", "open": null, "close": null },
+         { "day": "Sunday", "open": null, "close": null }
+       ]
+     },
+     {
+       "name": "France",
+       "working_hours": [
+         { "day": "Monday", "open": "09:00", "close": "18:00" },
+         { "day": "Tuesday", "open": "09:00", "close": "18:00" },
+         { "day": "Wednesday", "open": "09:00", "close": "18:00" },
+         { "day": "Thursday", "open": "09:00", "close": "18:00" },
+         { "day": "Friday", "open": "09:00", "close": "18:00" },
+         { "day": "Saturday", "open": null, "close": null },
+         { "day": "Sunday", "open": null, "close": null }
+       ]
+     },
+     {
+       "name": "Italy",
+       "working_hours": [
+         { "day": "Monday", "open": "08:30", "close": "17:30" },
+         { "day": "Tuesday", "open": "08:30", "close": "17:30" },
+         { "day": "Wednesday", "open": "08:30", "close": "17:30" },
+         { "day": "Thursday", "open": "08:30", "close": "17:30" },
+         { "day": "Friday", "open": "08:30", "close": "17:30" },
+         { "day": "Saturday", "open": null, "close": null },
+         { "day": "Sunday", "open": null, "close": null }
+       ]
+     },
+     {
+       "name": "Japan",
+       "working_hours": [
+         { "day": "Monday", "open": "09:00", "close": "17:00" },
+         { "day": "Tuesday", "open": "09:00", "close": "17:00" },
+         { "day": "Wednesday", "open": "09:00", "close": "17:00" },
+         { "day": "Thursday", "open": "09:00", "close": "17:00" },
+         { "day": "Friday", "open": "09:00", "close": "17:00" },
+         { "day": "Saturday", "open": null, "close": null },
+         { "day": "Sunday", "open": null, "close": null }
+       ]
+     }
+   ]
+ }
+ 
